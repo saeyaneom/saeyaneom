@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm currently undergraduate student of Urban Engineering and Computer Engineering at Hongik University, Seoul, Korea.
+- I am interested in PropTech(Property Technology)🏡, Smart City🏙️, autonomous vehicles🚗, FinTech(Financial Technology)💸
+- I want to contribute to society we live in by improving quality of people's lives.
+- How to reach me📫: email: esaeysay@gmail.com  
+- Pronouns: She/her
+
 <!--
 **saeyaneom/saeyaneom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
